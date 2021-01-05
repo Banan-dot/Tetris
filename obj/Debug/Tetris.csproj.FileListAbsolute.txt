@@ -1,0 +1,28 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\bin\Debug\Tetris.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\obj\Debug\Tetris.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Tetris\bin\Debug\Shapes\Shapes.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\obj\Debug\Tetris.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\bin\Debug\Shapes\Shapes.png
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\bin\Debug\Tetris.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\Study\C# - solutions\Tetris\bin\Debug\Tetris.pdb
